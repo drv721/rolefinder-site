@@ -1,0 +1,8 @@
+# Files that must NOT be served as static assets.
+# Only index.html, manifest.webmanifest, sw.js, data/, icons/ should be public.
+.git*
+.assetsignore
+wrangler.jsonc
+src/
+functions/
+README.md

@@ -1,0 +1,9 @@
+{
+  "name": "rolefinder-site",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-03",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  }
+}

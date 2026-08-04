@@ -1,4 +1,4 @@
-/* Shared helpers for Role Finder push hub (Cloudflare Pages Functions).
+/* Shared helpers for Role Finder push hub (Cloudflare Worker).
    VAPID ES256 JWT signing via Web Crypto (crypto.subtle) — no npm deps.
    The raw->DER conversion here is mirrored 1:1 by work/rolefinder/gen_vapid.py
    (which verifies it against the public key at generation time). */
