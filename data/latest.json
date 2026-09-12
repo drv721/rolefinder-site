@@ -1,58 +1,279 @@
 {
- "generated_at": "2026-09-11T20:05:18.011717+00:00",
+ "generated_at": "2026-09-12T12:05:17.053366+00:00",
  "counts": {
-  "total": 48,
-  "new": 1,
-  "new_24h": 1
+  "total": 52,
+  "new": 6,
+  "new_24h": 6
  },
  "new_since_last": [
   {
-   "title": "Director, Channel Partnerships",
+   "title": "Director, Technology Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-at-acceleration-partners-4444711399?position=4&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=J%2BbAWaPhLdh%2BO%2BVC23KXlw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-technology-partnerships-at-kiteworks-4465163194?position=4&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=Rpp86YSE%2FR%2FOv6I4DMjtLA%3D%3D",
    "published": "",
    "source": "linkedin",
-   "company": "Acceleration Partners",
-   "lid": "4444711399",
-   "id": "linkedin-4444711399",
-   "first_seen": "2026-09-11T20:05:18.002677+00:00",
+   "company": "Kiteworks",
+   "lid": "4465163194",
+   "id": "linkedin-4465163194",
+   "first_seen": "2026-09-12T12:05:17.042793+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Integrated Marketing and ABM Manager",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/integrated-marketing-and-abm-manager-at-piper-companies-4465403308?position=2&pageNum=0&refId=CUypFfi03aphx1AOeMqfLw%3D%3D&trackingId=uZ1FIUc3FwhtIvo9qL%2B7XQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Piper Companies",
+   "lid": "4465403308",
+   "id": "linkedin-4465403308",
+   "first_seen": "2026-09-12T12:05:17.042692+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Director of Community Engagement",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-engagement-at-goodwill-southern-los-angeles-county-4466401120?position=3&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=mwjUpGPIZgdzVZo2onO7RQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Goodwill Southern Los Angeles County",
+   "lid": "4466401120",
+   "id": "linkedin-4466401120",
+   "first_seen": "2026-09-12T12:05:17.042404+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Tech Partnerships Manager",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/tech-partnerships-manager-at-legora-4426862598?position=9&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=0Lwbk4nfyiiwaeNQuX4%2B6w%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Legora",
+   "lid": "4426862598",
+   "id": "linkedin-4426862598",
+   "first_seen": "2026-09-12T12:05:17.041790+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Events and Sponsorships Director",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/events-and-sponsorships-director-at-les-turner-als-foundation-4465158175?position=5&pageNum=0&refId=4iMvff8KkR%2BqjUhLgkYlJg%3D%3D&trackingId=ztY6b%2FhdhkuuCFtuBKK02g%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Les Turner ALS Foundation",
+   "lid": "4465158175",
+   "id": "linkedin-4465158175",
+   "first_seen": "2026-09-12T12:05:17.041044+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Business Development, Strategic Partnerships & Affiliates",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/manager-business-development-strategic-partnerships-affiliates-at-expedia-group-4465415079?position=9&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=z62tCNx5zP97EHcEKeQH6A%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Expedia Group",
+   "lid": "4465415079",
+   "id": "linkedin-4465415079",
+   "first_seen": "2026-09-12T12:05:17.040846+00:00",
    "new": true,
    "is_24h": true
   }
  ],
  "new_24h": [
   {
-   "title": "Director, Channel Partnerships",
+   "title": "Director, Technology Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-at-acceleration-partners-4444711399?position=4&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=J%2BbAWaPhLdh%2BO%2BVC23KXlw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-technology-partnerships-at-kiteworks-4465163194?position=4&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=Rpp86YSE%2FR%2FOv6I4DMjtLA%3D%3D",
    "published": "",
    "source": "linkedin",
-   "company": "Acceleration Partners",
-   "lid": "4444711399",
-   "id": "linkedin-4444711399",
-   "first_seen": "2026-09-11T20:05:18.002677+00:00",
+   "company": "Kiteworks",
+   "lid": "4465163194",
+   "id": "linkedin-4465163194",
+   "first_seen": "2026-09-12T12:05:17.042793+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Integrated Marketing and ABM Manager",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/integrated-marketing-and-abm-manager-at-piper-companies-4465403308?position=2&pageNum=0&refId=CUypFfi03aphx1AOeMqfLw%3D%3D&trackingId=uZ1FIUc3FwhtIvo9qL%2B7XQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Piper Companies",
+   "lid": "4465403308",
+   "id": "linkedin-4465403308",
+   "first_seen": "2026-09-12T12:05:17.042692+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Director of Community Engagement",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-engagement-at-goodwill-southern-los-angeles-county-4466401120?position=3&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=mwjUpGPIZgdzVZo2onO7RQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Goodwill Southern Los Angeles County",
+   "lid": "4466401120",
+   "id": "linkedin-4466401120",
+   "first_seen": "2026-09-12T12:05:17.042404+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Tech Partnerships Manager",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/tech-partnerships-manager-at-legora-4426862598?position=9&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=0Lwbk4nfyiiwaeNQuX4%2B6w%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Legora",
+   "lid": "4426862598",
+   "id": "linkedin-4426862598",
+   "first_seen": "2026-09-12T12:05:17.041790+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Events and Sponsorships Director",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/events-and-sponsorships-director-at-les-turner-als-foundation-4465158175?position=5&pageNum=0&refId=4iMvff8KkR%2BqjUhLgkYlJg%3D%3D&trackingId=ztY6b%2FhdhkuuCFtuBKK02g%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Les Turner ALS Foundation",
+   "lid": "4465158175",
+   "id": "linkedin-4465158175",
+   "first_seen": "2026-09-12T12:05:17.041044+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Business Development, Strategic Partnerships & Affiliates",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/manager-business-development-strategic-partnerships-affiliates-at-expedia-group-4465415079?position=9&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=z62tCNx5zP97EHcEKeQH6A%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Expedia Group",
+   "lid": "4465415079",
+   "id": "linkedin-4465415079",
+   "first_seen": "2026-09-12T12:05:17.040846+00:00",
    "new": true,
    "is_24h": true
   }
  ],
  "open": [
   {
+   "title": "Director, Technology Partnerships",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-technology-partnerships-at-kiteworks-4465163194?position=4&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=Rpp86YSE%2FR%2FOv6I4DMjtLA%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Kiteworks",
+   "lid": "4465163194",
+   "id": "linkedin-4465163194",
+   "first_seen": "2026-09-12T12:05:17.042793+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Integrated Marketing and ABM Manager",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/integrated-marketing-and-abm-manager-at-piper-companies-4465403308?position=2&pageNum=0&refId=CUypFfi03aphx1AOeMqfLw%3D%3D&trackingId=uZ1FIUc3FwhtIvo9qL%2B7XQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Piper Companies",
+   "lid": "4465403308",
+   "id": "linkedin-4465403308",
+   "first_seen": "2026-09-12T12:05:17.042692+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Director of Community Engagement",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-engagement-at-goodwill-southern-los-angeles-county-4466401120?position=3&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=mwjUpGPIZgdzVZo2onO7RQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Goodwill Southern Los Angeles County",
+   "lid": "4466401120",
+   "id": "linkedin-4466401120",
+   "first_seen": "2026-09-12T12:05:17.042404+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Tech Partnerships Manager",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/tech-partnerships-manager-at-legora-4426862598?position=9&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=0Lwbk4nfyiiwaeNQuX4%2B6w%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Legora",
+   "lid": "4426862598",
+   "id": "linkedin-4426862598",
+   "first_seen": "2026-09-12T12:05:17.041790+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Events and Sponsorships Director",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/events-and-sponsorships-director-at-les-turner-als-foundation-4465158175?position=5&pageNum=0&refId=4iMvff8KkR%2BqjUhLgkYlJg%3D%3D&trackingId=ztY6b%2FhdhkuuCFtuBKK02g%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Les Turner ALS Foundation",
+   "lid": "4465158175",
+   "id": "linkedin-4465158175",
+   "first_seen": "2026-09-12T12:05:17.041044+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Business Development, Strategic Partnerships & Affiliates",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/manager-business-development-strategic-partnerships-affiliates-at-expedia-group-4465415079?position=9&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=z62tCNx5zP97EHcEKeQH6A%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Expedia Group",
+   "lid": "4465415079",
+   "id": "linkedin-4465415079",
+   "first_seen": "2026-09-12T12:05:17.040846+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
    "title": "Director, Channel Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-at-acceleration-partners-4444711399?position=4&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=J%2BbAWaPhLdh%2BO%2BVC23KXlw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-at-acceleration-partners-4444711399?position=5&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=oj2RfZ1HltTUmyBI03%2FVWg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Acceleration Partners",
    "lid": "4444711399",
    "id": "linkedin-4444711399",
    "first_seen": "2026-09-11T20:05:18.002677+00:00",
-   "new": true,
-   "is_24h": true
+   "new": false,
+   "is_24h": false
+  },
+  {
+   "title": "Manager, Partnership Marketing",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnership-marketing-at-major-league-soccer-4443170803?position=10&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=xFm9sZ4zD%2FhPnuVGtFpDdw%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Major League Soccer",
+   "lid": "4443170803",
+   "id": "linkedin-4443170803",
+   "first_seen": "2026-09-11T12:05:16.474637+00:00",
+   "new": false,
+   "is_24h": false
   },
   {
    "title": "Regional Partnerships & Brand Activations Manager \u2014 Influencer, NIL & Events",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/regional-partnerships-brand-activations-manager-%E2%80%94-influencer-nil-events-at-burdlife-4464120270?position=9&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=DM5N%2Fy%2BN0%2BNT3vjrJqSVJw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/regional-partnerships-brand-activations-manager-%E2%80%94-influencer-nil-events-at-burdlife-4464120270?position=8&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=Yr8dIWNB2DphGEzwm9N4SQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "BURDLIFE",
@@ -65,7 +286,7 @@
   {
    "title": "Sponsorship and Advertising Sales Manager NF-04.",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/sponsorship-and-advertising-sales-manager-nf-04-at-obsolete-site-4465634861?position=7&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=dy4vOj7szqrs5%2B2GK6YtwA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/sponsorship-and-advertising-sales-manager-nf-04-at-obsolete-site-4465634861?position=6&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=Qm5olWR3MalBv%2FEZKIdBvg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Obsolete Site",
@@ -78,7 +299,7 @@
   {
    "title": "Financial Partnerships Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/financial-partnerships-manager-at-rain-4463914595?position=3&pageNum=0&refId=Pzmgq4rauVAaXfCLxQZl8Q%3D%3D&trackingId=LjhBBPfrQYWMA9qKF7nhAA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/financial-partnerships-manager-at-rain-4463914595?position=3&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=JY8eUH0%2F8ODCYkHCKJ6SQA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Rain",
@@ -89,22 +310,9 @@
    "is_24h": false
   },
   {
-   "title": "Senior Director, Technology Partnerships",
-   "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-director-technology-partnerships-at-kinaxis-4466009411?position=10&pageNum=0&refId=1%2F8wMfNm6jmENBjPnP7dWQ%3D%3D&trackingId=mZO8i36sRB6GVbEzNAG9bA%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Kinaxis",
-   "lid": "4466009411",
-   "id": "linkedin-4466009411",
-   "first_seen": "2026-09-11T12:05:16.473793+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Senior Partner Growth Manager, Platform Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-partner-growth-manager-platform-partnerships-at-acceleration-partners-4427071095?position=7&pageNum=0&refId=d72ZbkvyCavjNl6bZBw5fA%3D%3D&trackingId=4TR%2BSb3SlN90LkomVEm0cA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-partner-growth-manager-platform-partnerships-at-acceleration-partners-4427071095?position=9&pageNum=0&refId=4iMvff8KkR%2BqjUhLgkYlJg%3D%3D&trackingId=DBf%2BufLSyfv3gISblXHvzA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Acceleration Partners",
@@ -117,7 +325,7 @@
   {
    "title": "Manager, Strategic Partnerships & Business Development \u2013 SMB Retail",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-strategic-partnerships-business-development-%E2%80%93-smb-retail-at-global-payments-inc-4465629527?position=9&pageNum=0&refId=Pzmgq4rauVAaXfCLxQZl8Q%3D%3D&trackingId=1x5YzZr4%2B6gEoy607rWb0Q%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-strategic-partnerships-business-development-%E2%80%93-smb-retail-at-global-payments-inc-4465629527?position=10&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=4EvE%2BjbzA1cNnVF4iKB%2B3g%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Global Payments Inc.",
@@ -130,7 +338,7 @@
   {
    "title": "Security Partner Development Manager, AWS Security Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/security-partner-development-manager-aws-security-partnerships-at-amazon-web-services-aws-4455909934?position=8&pageNum=0&refId=Pzmgq4rauVAaXfCLxQZl8Q%3D%3D&trackingId=1nRslUH8CRuV7lrAdKCEHg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/security-partner-development-manager-aws-security-partnerships-at-amazon-web-services-aws-4455909934?position=8&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=J4ar9n0Jdm5GypKpGdIThw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Amazon Web Services (AWS)",
@@ -143,7 +351,7 @@
   {
    "title": "Consultancy Partnerships Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/consultancy-partnerships-manager-at-frontify-4462538852?position=7&pageNum=0&refId=Pzmgq4rauVAaXfCLxQZl8Q%3D%3D&trackingId=fSoy2WfFZ%2FuC%2Bcb5WUfMWQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/consultancy-partnerships-manager-at-frontify-4462538852?position=7&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=7pEK1reef5a8jnK5HWg80w%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Frontify",
@@ -154,22 +362,9 @@
    "is_24h": false
   },
   {
-   "title": "Integrated Marketing Manager (Americas)",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/integrated-marketing-manager-americas-at-gainrep-4465626989?position=6&pageNum=0&refId=njyoLjUK4hYy57K1%2B%2BTVqQ%3D%3D&trackingId=GIFibP3AVIQhQPTvPL3gtA%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Gainrep",
-   "lid": "4465626989",
-   "id": "linkedin-4465626989",
-   "first_seen": "2026-09-10T12:05:17.176628+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Director Strategic Technology Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-strategic-technology-partnerships-at-ccc-intelligent-solutions-4465347785?position=4&pageNum=0&refId=1%2F8wMfNm6jmENBjPnP7dWQ%3D%3D&trackingId=nxI8h4LbdLBlx9TXtaA6gQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-strategic-technology-partnerships-at-ccc-intelligent-solutions-4465347785?position=5&pageNum=0&refId=8YsgRjkBP%2FiGKJRx9knipg%3D%3D&trackingId=23ABuAZcaTF9ptJelgSX4Q%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "CCC Intelligent Solutions",
@@ -182,7 +377,7 @@
   {
    "title": "Director, Foundation & Corporate Relations",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-foundation-corporate-relations-at-altamed-health-services-4464909478?position=4&pageNum=0&refId=3QTfpglzCjYF8c60QYWsaw%3D%3D&trackingId=pBFgDUCVaVaKhmIvXcKxyg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-foundation-corporate-relations-at-altamed-health-services-4464909478?position=4&pageNum=0&refId=j4Y4Czitw9aSRzp5ANb7FQ%3D%3D&trackingId=I9RsFIXdAhrprw5SP4dAqQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "AltaMed Health Services",
@@ -195,7 +390,7 @@
   {
    "title": "Director, Community Relations & Strategic Initiatives",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-community-relations-strategic-initiatives-at-cuyahoga-community-college-4445618268?position=8&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=onF6X6xlFrHQscm0q9Uj4Q%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-community-relations-strategic-initiatives-at-cuyahoga-community-college-4445618268?position=8&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=P5LOvsgakMh1KIlB46EpJQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Cuyahoga Community College",
@@ -208,7 +403,7 @@
   {
    "title": "Director of Community Partnerships, Alpha - $400,000/year USD",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-community-partnerships-alpha-%24400-000-year-usd-at-crossover-4463560132?position=7&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=MPEhNtEHT5eJ%2FwyOP39%2FCw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-partnerships-alpha-%24400-000-year-usd-at-crossover-4463560132?position=7&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=p8pv2K%2Fb1e%2B5lKWtvxyMoQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Crossover",
@@ -221,7 +416,7 @@
   {
    "title": "Director of Community Partnerships, Alpha - $400,000/year USD",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-community-partnerships-alpha-%24400-000-year-usd-at-crossover-4463567052?position=4&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=TpErY2fLqiodKp0DDE7tKw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-partnerships-alpha-%24400-000-year-usd-at-crossover-4463567052?position=5&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=tTXgdHKUKi0sk7JxOVFr0g%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Crossover",
@@ -234,7 +429,7 @@
   {
    "title": "Director, Community Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-community-partnerships-at-greater-lawrence-family-health-center-4462506197?position=1&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=6nSmCuuda%2BtyGTIFtozEdg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-community-partnerships-at-greater-lawrence-family-health-center-4462506197?position=1&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=u1NUbIaIhIWefwgPPR0H9w%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Greater Lawrence Family Health Center",
@@ -247,7 +442,7 @@
   {
    "title": "Manager, Brand Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-brand-partnerships-at-mythical-4463596239?position=2&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=L6t2hgENugSRirMKs2Bh8w%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-brand-partnerships-at-mythical-4463596239?position=2&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=2dhyGogg6ChckkXD%2F815iQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Mythical",
@@ -260,7 +455,7 @@
   {
    "title": "Corporate Partnership Development Manager",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/corporate-partnership-development-manager-at-property-liability-resource-bureau-4463562370?position=9&pageNum=0&refId=DeJ2YJ52UnifmpB%2BehTYlA%3D%3D&trackingId=L9hfgICmusEJ9dQMrNGZRg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/corporate-partnership-development-manager-at-property-liability-resource-bureau-4463562370?position=10&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=fRwRh3yjfigP2IJtBrlXhg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Property & Liability Resource Bureau",
@@ -273,7 +468,7 @@
   {
    "title": "Director, Corporate & Foundation Partnership, Global Health Advocacy",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-corporate-foundation-partnership-global-health-advocacy-at-united-nations-foundation-4437122381?position=7&pageNum=0&refId=3QTfpglzCjYF8c60QYWsaw%3D%3D&trackingId=CxyoVCL04b3IvcsGvUTPsQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-corporate-foundation-partnership-global-health-advocacy-at-united-nations-foundation-4437122381?position=7&pageNum=0&refId=j4Y4Czitw9aSRzp5ANb7FQ%3D%3D&trackingId=doymexMBHnhPnGyMiwa4lQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "United Nations Foundation",
@@ -284,22 +479,9 @@
    "is_24h": false
   },
   {
-   "title": "Director Strategic Volunteer Partnerships",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-strategic-volunteer-partnerships-at-national-church-residences-4461190830?position=5&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=BkQ4mfZekTITd9fcZhWtBw%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "National Church Residences",
-   "lid": "4461190830",
-   "id": "linkedin-4461190830",
-   "first_seen": "2026-09-05T20:05:16.236957+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Director, Business Development & Community Relations",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-business-development-community-relations-at-welbehealth-4462384582?position=3&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=iKkB%2Fe3%2BodVKPO9JNI3VXA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-business-development-community-relations-at-welbehealth-4462384582?position=4&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=vINlVPNUdmulPXBpsddDbg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "WelbeHealth",
@@ -312,7 +494,7 @@
   {
    "title": "Director, Strategic Partnerships and Government Relations",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-and-government-relations-at-kamehameha-schools-4423065513?position=10&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=HD%2FQa0UEFAD5N0EcAAOKIA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-and-government-relations-at-kamehameha-schools-4423065513?position=10&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=5pL%2B%2BlkhcGPzmd0Kw2y2%2Bw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Kamehameha Schools",
@@ -325,7 +507,7 @@
   {
    "title": "Director Payments, Ecosystem and Marketplace Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-payments-ecosystem-and-marketplace-partnerships-at-dailypay-4436096834?position=9&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=T0lJxMAvkYlySN1eDsGNsA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-payments-ecosystem-and-marketplace-partnerships-at-dailypay-4436096834?position=10&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=4RG7QU1bEfWRdAV5kyg2NQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "DailyPay",
@@ -338,7 +520,7 @@
   {
    "title": "Director, Strategic Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-at-priceline-4436274390?position=8&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=WytNJdaOJdL2lIkxHXBbJg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-at-priceline-4436274390?position=9&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=zFsqUYXgp%2BxLj0b9JqWGTA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Priceline",
@@ -351,7 +533,7 @@
   {
    "title": "Director - Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-oncourse-home-solutions-4413752133?position=9&pageNum=0&refId=zNkSL%2BvouptWRbsG0mbgew%3D%3D&trackingId=ZYautRctSn7r6T3%2BiAc2zg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-oncourse-home-solutions-4413752133?position=10&pageNum=0&refId=dJdqIOFf4xQdykHDD7%2BnZA%3D%3D&trackingId=rHI6BF52EQUz7V2Mf5Pg3Q%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Oncourse Home Solutions",
@@ -364,7 +546,7 @@
   {
    "title": "Silicon Ecosystem Partnerships Director - US",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/silicon-ecosystem-partnerships-director-us-at-furiosaai-4454168478?position=5&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=N0yjI6KxoKMJjNUhnzER3w%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/silicon-ecosystem-partnerships-director-us-at-furiosaai-4454168478?position=6&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=2BmNpr4u3g7ksxuR%2Bn7thA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "FuriosaAI",
@@ -377,7 +559,7 @@
   {
    "title": "Director, Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-veho-4444135552?position=6&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=gwnW2DRMlVZN8%2F1kAQu2nQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-veho-4444135552?position=7&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=0mXu%2Fyq7Hr%2FTrxP4aew1Ng%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Veho",
@@ -390,7 +572,7 @@
   {
    "title": "Director, Channel Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-at-acceleration-partners-4444703566?position=2&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=9zg7BE7Jhi%2F4gomWISCHFw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-at-acceleration-partners-4444703566?position=2&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=PktBTS8YRHrVu5BFmnmpQw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Acceleration Partners",
@@ -403,7 +585,7 @@
   {
    "title": "Director of Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-pagaya-4387781703?position=1&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=8XDImm%2F1XYMk7MqBQos66Q%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-pagaya-4387781703?position=1&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=NZ6jGg925b%2Fun6qx7goYyg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Pagaya",
@@ -416,7 +598,7 @@
   {
    "title": "Senior Director, Technology Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-director-technology-partnerships-at-psiquantum-4456066729?position=3&pageNum=0&refId=zNkSL%2BvouptWRbsG0mbgew%3D%3D&trackingId=fJQLL2pl16VoBTU%2B%2BiBSjg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-director-technology-partnerships-at-psiquantum-4456066729?position=3&pageNum=0&refId=dJdqIOFf4xQdykHDD7%2BnZA%3D%3D&trackingId=EA%2BHayFtXvN%2Bb17UTq540g%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PsiQuantum",
@@ -429,7 +611,7 @@
   {
    "title": "Manager of Partnerships & Premium Seating | Full-Time | Blue Arena & The Ranch Events Complex",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-of-partnerships-premium-seating-full-time-blue-arena-the-ranch-events-complex-at-oak-view-group-4445639851?position=5&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=D%2FHkx2RvUaoJK1uAzOhWRg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-of-partnerships-premium-seating-full-time-blue-arena-the-ranch-events-complex-at-oak-view-group-4445639851?position=5&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=OxBHdpBg9865sI1Pqse5qw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Oak View Group",
@@ -442,7 +624,7 @@
   {
    "title": "Manager of Partnerships | Full-Time | Olmsted County Exhibition Center",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-of-partnerships-full-time-olmsted-county-exhibition-center-at-oak-view-group-4455525089?position=4&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=9dpvNbU%2BHkGZ7Ms3mYyA8A%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-of-partnerships-full-time-olmsted-county-exhibition-center-at-oak-view-group-4455525089?position=4&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=LTE9yfd1baZv9dJ%2BPK%2BtWg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Oak View Group",
@@ -455,7 +637,7 @@
   {
    "title": "Manager, Partnership Development",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-partnership-development-at-the-new-york-racing-association-4423162336?position=1&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=pxsgc4CHCR7OYcctlp0LPQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnership-development-at-the-new-york-racing-association-4423162336?position=1&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=C7BP3FQIZMBaiVIRYJUYsw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "The New York Racing Association",
@@ -468,7 +650,7 @@
   {
    "title": "Strategic Partnerships Director - Ped Endo",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-director-ped-endo-at-bioliance-life-science-partners-4416412411?position=8&pageNum=0&refId=zNkSL%2BvouptWRbsG0mbgew%3D%3D&trackingId=xbkLIKRKsujqtxx4QRRBdQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-director-ped-endo-at-bioliance-life-science-partners-4416412411?position=8&pageNum=0&refId=dJdqIOFf4xQdykHDD7%2BnZA%3D%3D&trackingId=50U947vlWGjIXFUPxGbR1A%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Bioliance Life Science Partners",
@@ -481,7 +663,7 @@
   {
    "title": "Director, Community Engagement & Corporate Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-community-engagement-corporate-partnerships-at-major-league-soccer-4426988039?position=2&pageNum=0&refId=qcF9V3YqYTdMfKMIOZmIgw%3D%3D&trackingId=toYSDC7V%2B0PzjsHb1VS5hA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-community-engagement-corporate-partnerships-at-major-league-soccer-4426988039?position=2&pageNum=0&refId=4oBExrPBuIBvX2LVDeyPaw%3D%3D&trackingId=ZXdp6zyxNQ3AykTbahQU6w%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Major League Soccer",
@@ -494,7 +676,7 @@
   {
    "title": "Director, Corporate Relations",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-corporate-relations-at-american-cancer-society-4455487187?position=5&pageNum=0&refId=zNkSL%2BvouptWRbsG0mbgew%3D%3D&trackingId=YwkzrzzIVJ6mPPMN3rN%2BSg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-corporate-relations-at-american-cancer-society-4455487187?position=5&pageNum=0&refId=dJdqIOFf4xQdykHDD7%2BnZA%3D%3D&trackingId=4%2BMYjQ%2FOMruSutth0Gwefg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "American Cancer Society",
@@ -507,7 +689,7 @@
   {
    "title": "Manager, OneHub External Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/manager-onehub-external-partnerships-at-abbvie-4434690201?position=7&pageNum=0&refId=DeJ2YJ52UnifmpB%2BehTYlA%3D%3D&trackingId=rPTmLtGR7a2z9pKIg9Q4VQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-onehub-external-partnerships-at-abbvie-4434690201?position=7&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=zZNj2drx4Am%2BN9kJhGvYxA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "AbbVie",
@@ -520,7 +702,7 @@
   {
    "title": "Senior Manager - Community Engagement, AWS InCommunities",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-manager-community-engagement-aws-incommunities-at-amazon-web-services-aws-4455916057?position=5&pageNum=0&refId=kdvUfmEqLLINyYCuvzfOSQ%3D%3D&trackingId=Yr3BwXH%2By%2FioHLPGocAwjw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-manager-community-engagement-aws-incommunities-at-amazon-web-services-aws-4455916057?position=5&pageNum=0&refId=1AuxoCguu6j4GCExEeReVg%3D%3D&trackingId=jRcCuZ4kKS25vGMDs03OIQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Amazon Web Services (AWS)",
@@ -533,7 +715,7 @@
   {
    "title": "Partnerships Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/partnerships-manager-at-avoca-4433914368?position=1&pageNum=0&refId=Pzmgq4rauVAaXfCLxQZl8Q%3D%3D&trackingId=jG0gnxlIYiZrSXAbgXmOXQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/partnerships-manager-at-avoca-4433914368?position=1&pageNum=0&refId=se26STQOtmS85dsygLlLUw%3D%3D&trackingId=thY0%2B1kQQDftgobPsM%2FkZQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Avoca",
@@ -546,7 +728,7 @@
   {
    "title": "Director, Community Engagement - Upper Mid-West (Chicago, IL)",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-community-engagement-upper-mid-west-chicago-il-at-autism-speaks-4385928405?position=7&pageNum=0&refId=zNkSL%2BvouptWRbsG0mbgew%3D%3D&trackingId=uWS%2BsjASuCP7xvQPXE776A%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-community-engagement-upper-mid-west-chicago-il-at-autism-speaks-4385928405?position=7&pageNum=0&refId=dJdqIOFf4xQdykHDD7%2BnZA%3D%3D&trackingId=xZTkzbKraTxlY7GuEkS2mQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Autism Speaks",
@@ -559,7 +741,7 @@
   {
    "title": "Partnership Sales Manager, Data and Media Solutions",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/partnership-sales-manager-data-and-media-solutions-at-mastercard-4424829226?position=5&pageNum=0&refId=DeJ2YJ52UnifmpB%2BehTYlA%3D%3D&trackingId=5K6JC%2B5g6W3yQnb%2BckbP6g%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/partnership-sales-manager-data-and-media-solutions-at-mastercard-4424829226?position=5&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=Z8qUz1l2yTy0ACOv7a59Dw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Mastercard",
@@ -572,7 +754,7 @@
   {
    "title": "Partner Development Manager, Link - Payments Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/partner-development-manager-link-payments-partnerships-at-stripe-4454549316?position=2&pageNum=0&refId=DeJ2YJ52UnifmpB%2BehTYlA%3D%3D&trackingId=r2%2FOFLTeRj3wGrTTcjoJUw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/partner-development-manager-link-payments-partnerships-at-stripe-4454549316?position=2&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=d%2BsrT6qYEyTfwFU0qUyaTA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Stripe",
@@ -585,7 +767,7 @@
   {
    "title": "Business Development Sr. Manager - AI Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/business-development-sr-manager-ai-partnerships-at-lenovo-4442246684?position=6&pageNum=0&refId=DeJ2YJ52UnifmpB%2BehTYlA%3D%3D&trackingId=EDIrfCjLyATgsHGEw7CrKg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/business-development-sr-manager-ai-partnerships-at-lenovo-4442246684?position=6&pageNum=0&refId=%2FWd91TcDGX3%2FMsIidJt2hw%3D%3D&trackingId=XgxbHnI%2FolUsjQ7yqAIHjQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Lenovo",
@@ -598,7 +780,7 @@
   {
    "title": "Director, Employer Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-employer-partnerships-at-braven-4450177391?position=1&pageNum=0&refId=zNkSL%2BvouptWRbsG0mbgew%3D%3D&trackingId=RhjcwqhqUolBBYpyN2JgUA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-employer-partnerships-at-braven-4450177391?position=1&pageNum=0&refId=dJdqIOFf4xQdykHDD7%2BnZA%3D%3D&trackingId=XDr1gljLMcW60%2Frt8UjsCg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Braven",
@@ -611,7 +793,7 @@
   {
    "title": "Director of Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-confido-4438291976?position=3&pageNum=0&refId=PQHBEZGcDps93ROivSrDTw%3D%3D&trackingId=ObHfG7qMZAIF0t7jIyAs5g%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-confido-4438291976?position=3&pageNum=0&refId=uAvligo9KaMpDKHQ59kbyQ%3D%3D&trackingId=osnslVnf23PwTTlTFvMm1A%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Confido",
@@ -624,7 +806,7 @@
   {
    "title": "Sponsorship and Activation Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/sponsorship-and-activation-manager-at-legends-global-4446340430?position=3&pageNum=0&refId=BrutXE%2F3Uq6Z77Szzam2Og%3D%3D&trackingId=OVwXb53HSwdALpHBI0H3fg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/sponsorship-and-activation-manager-at-legends-global-4446340430?position=3&pageNum=0&refId=EfCz1%2FYOqJSelT8ptfkljA%3D%3D&trackingId=EZjE%2Fpu5wHcmw5IFid1JIQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Legends Global",
@@ -637,7 +819,7 @@
   {
    "title": "Manager, Integrated Marketing, Consumer - DashPass Habituation",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/manager-integrated-marketing-consumer-dashpass-habituation-at-doordash-4427802714?position=3&pageNum=0&refId=E%2BEZlPMYClQi40lI40L03g%3D%3D&trackingId=3sPgaSir8gEbVOqOytEpBA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-integrated-marketing-consumer-dashpass-habituation-at-doordash-4427802714?position=2&pageNum=0&refId=zzkMl4n86C%2BKFiyPKqxGkQ%3D%3D&trackingId=%2BKwb%2BPw8EEQVTcUKG91xHQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "DoorDash",
@@ -650,7 +832,7 @@
   {
    "title": "Senior Manager, Partnership Sales | Northwestern University",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-manager-partnership-sales-northwestern-university-at-legends-global-4419992248?position=1&pageNum=0&refId=d72ZbkvyCavjNl6bZBw5fA%3D%3D&trackingId=70XB0QYx0V1q4K5GW5vg1A%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-manager-partnership-sales-northwestern-university-at-legends-global-4419992248?position=1&pageNum=0&refId=4iMvff8KkR%2BqjUhLgkYlJg%3D%3D&trackingId=llh6AjNdy5wFlf15cdkFNw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Legends Global",
