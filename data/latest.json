@@ -1,58 +1,227 @@
 {
- "generated_at": "2026-10-09T12:05:16.859572+00:00",
+ "generated_at": "2026-10-09T20:05:16.230389+00:00",
  "counts": {
-  "total": 53,
-  "new": 1,
-  "new_24h": 1
+  "total": 54,
+  "new": 5,
+  "new_24h": 5
  },
  "new_since_last": [
   {
-   "title": "Senior Head of Partnerships - Soccer",
-   "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-head-of-partnerships-soccer-at-double-good-4477462513?position=6&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=3cdAlZ4zM5Qu2O1iVnTW0g%3D%3D",
+   "title": "Regional Partnerships Director - North America",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/regional-partnerships-director-north-america-at-bridgewise-4475995500?position=9&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=oI%2BfV8VbgV8OclNRn8vWBg%3D%3D",
    "published": "",
    "source": "linkedin",
-   "company": "Double Good",
-   "lid": "4477462513",
-   "id": "linkedin-4477462513",
-   "first_seen": "2026-10-09T12:05:16.846393+00:00",
+   "company": "BridgeWise",
+   "lid": "4475995500",
+   "id": "linkedin-4475995500",
+   "first_seen": "2026-10-09T20:05:16.218795+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager of Foundation and Corporate Giving",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-of-foundation-and-corporate-giving-at-westhab-inc-4477681623?position=3&pageNum=0&refId=wT4wqVGsQePFGGiILu2vHQ%3D%3D&trackingId=Ajt40t7n9HWWcmZ%2BGEAL2Q%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Westhab, Inc.",
+   "lid": "4477681623",
+   "id": "linkedin-4477681623",
+   "first_seen": "2026-10-09T20:05:16.218621+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Director, Jewish Community Relations Council",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-jewish-community-relations-council-at-jewish-federation-of-greater-fairfield-county-4475843004?position=10&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=cigL89FVYwI7XrjxZqYCKQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Jewish Federation of Greater Fairfield County",
+   "lid": "4475843004",
+   "id": "linkedin-4475843004",
+   "first_seen": "2026-10-09T20:05:16.218596+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Partnerships & Events",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-events-at-book-of-the-month-4477829894?position=7&pageNum=0&refId=9%2Fnsx8vjd21LN3eYEoEKxA%3D%3D&trackingId=FmHjxJeinxYprcrtbELN%2Bg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Book of the Month",
+   "lid": "4477829894",
+   "id": "linkedin-4477829894",
+   "first_seen": "2026-10-09T20:05:16.218275+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Measurement Partnerships - Audiences, Identity & Signals",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/manager-measurement-partnerships-audiences-identity-signals-at-snap-inc-4477832705?position=2&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=HWoJbE2r9j0zJh4kfbDXeg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Snap Inc.",
+   "lid": "4477832705",
+   "id": "linkedin-4477832705",
+   "first_seen": "2026-10-09T20:05:16.217498+00:00",
    "new": true,
    "is_24h": true
   }
  ],
  "new_24h": [
   {
-   "title": "Senior Head of Partnerships - Soccer",
-   "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-head-of-partnerships-soccer-at-double-good-4477462513?position=6&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=3cdAlZ4zM5Qu2O1iVnTW0g%3D%3D",
+   "title": "Regional Partnerships Director - North America",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/regional-partnerships-director-north-america-at-bridgewise-4475995500?position=9&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=oI%2BfV8VbgV8OclNRn8vWBg%3D%3D",
    "published": "",
    "source": "linkedin",
-   "company": "Double Good",
-   "lid": "4477462513",
-   "id": "linkedin-4477462513",
-   "first_seen": "2026-10-09T12:05:16.846393+00:00",
+   "company": "BridgeWise",
+   "lid": "4475995500",
+   "id": "linkedin-4475995500",
+   "first_seen": "2026-10-09T20:05:16.218795+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager of Foundation and Corporate Giving",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-of-foundation-and-corporate-giving-at-westhab-inc-4477681623?position=3&pageNum=0&refId=wT4wqVGsQePFGGiILu2vHQ%3D%3D&trackingId=Ajt40t7n9HWWcmZ%2BGEAL2Q%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Westhab, Inc.",
+   "lid": "4477681623",
+   "id": "linkedin-4477681623",
+   "first_seen": "2026-10-09T20:05:16.218621+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Director, Jewish Community Relations Council",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-jewish-community-relations-council-at-jewish-federation-of-greater-fairfield-county-4475843004?position=10&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=cigL89FVYwI7XrjxZqYCKQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Jewish Federation of Greater Fairfield County",
+   "lid": "4475843004",
+   "id": "linkedin-4475843004",
+   "first_seen": "2026-10-09T20:05:16.218596+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Partnerships & Events",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-events-at-book-of-the-month-4477829894?position=7&pageNum=0&refId=9%2Fnsx8vjd21LN3eYEoEKxA%3D%3D&trackingId=FmHjxJeinxYprcrtbELN%2Bg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Book of the Month",
+   "lid": "4477829894",
+   "id": "linkedin-4477829894",
+   "first_seen": "2026-10-09T20:05:16.218275+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Measurement Partnerships - Audiences, Identity & Signals",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/manager-measurement-partnerships-audiences-identity-signals-at-snap-inc-4477832705?position=2&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=HWoJbE2r9j0zJh4kfbDXeg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Snap Inc.",
+   "lid": "4477832705",
+   "id": "linkedin-4477832705",
+   "first_seen": "2026-10-09T20:05:16.217498+00:00",
    "new": true,
    "is_24h": true
   }
  ],
  "open": [
   {
-   "title": "Senior Head of Partnerships - Soccer",
+   "title": "Regional Partnerships Director - North America",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/regional-partnerships-director-north-america-at-bridgewise-4475995500?position=9&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=oI%2BfV8VbgV8OclNRn8vWBg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "BridgeWise",
+   "lid": "4475995500",
+   "id": "linkedin-4475995500",
+   "first_seen": "2026-10-09T20:05:16.218795+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager of Foundation and Corporate Giving",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-of-foundation-and-corporate-giving-at-westhab-inc-4477681623?position=3&pageNum=0&refId=wT4wqVGsQePFGGiILu2vHQ%3D%3D&trackingId=Ajt40t7n9HWWcmZ%2BGEAL2Q%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Westhab, Inc.",
+   "lid": "4477681623",
+   "id": "linkedin-4477681623",
+   "first_seen": "2026-10-09T20:05:16.218621+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Director, Jewish Community Relations Council",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-jewish-community-relations-council-at-jewish-federation-of-greater-fairfield-county-4475843004?position=10&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=cigL89FVYwI7XrjxZqYCKQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Jewish Federation of Greater Fairfield County",
+   "lid": "4475843004",
+   "id": "linkedin-4475843004",
+   "first_seen": "2026-10-09T20:05:16.218596+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Partnerships & Events",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-events-at-book-of-the-month-4477829894?position=7&pageNum=0&refId=9%2Fnsx8vjd21LN3eYEoEKxA%3D%3D&trackingId=FmHjxJeinxYprcrtbELN%2Bg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Book of the Month",
+   "lid": "4477829894",
+   "id": "linkedin-4477829894",
+   "first_seen": "2026-10-09T20:05:16.218275+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Manager, Measurement Partnerships - Audiences, Identity & Signals",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-head-of-partnerships-soccer-at-double-good-4477462513?position=6&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=3cdAlZ4zM5Qu2O1iVnTW0g%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-measurement-partnerships-audiences-identity-signals-at-snap-inc-4477832705?position=2&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=HWoJbE2r9j0zJh4kfbDXeg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Snap Inc.",
+   "lid": "4477832705",
+   "id": "linkedin-4477832705",
+   "first_seen": "2026-10-09T20:05:16.217498+00:00",
+   "new": true,
+   "is_24h": true
+  },
+  {
+   "title": "Head of Partnerships - Soccer",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/head-of-partnerships-soccer-at-double-good-4477462513?position=4&pageNum=0&refId=Mt4aCXptjnZofsan78hRIg%3D%3D&trackingId=qYr9IEpS7JnghQUCEl1tRQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Double Good",
    "lid": "4477462513",
    "id": "linkedin-4477462513",
    "first_seen": "2026-10-09T12:05:16.846393+00:00",
-   "new": true,
-   "is_24h": true
+   "new": false,
+   "is_24h": false
   },
   {
    "title": "Marketing Partnership Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/marketing-partnership-manager-at-commonspirit-health-4477136467?position=1&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=df2yiwjoijttcazP%2By%2FDLw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/marketing-partnership-manager-at-commonspirit-health-4477136467?position=1&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=psqCrUbllNsvRxpu%2FU31ZA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "CommonSpirit Health",
@@ -63,9 +232,22 @@
    "is_24h": false
   },
   {
+   "title": "Director of Community Relations, Alpha - $400,000/year USD",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-relations-alpha-%24400-000-year-usd-at-crossover-4475119238?position=9&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=AnGwk8EvzoIBXAsatyEhdQ%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Crossover",
+   "lid": "4475119238",
+   "id": "linkedin-4475119238",
+   "first_seen": "2026-10-07T20:05:20.392874+00:00",
+   "new": false,
+   "is_24h": false
+  },
+  {
    "title": "Director of Community Relations and Development",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-community-relations-and-development-at-the-salvation-army-north-central-illinois-division-4475454730?position=8&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=sEEzFU85gTd87cnl0i5axA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-relations-and-development-at-the-salvation-army-north-central-illinois-division-4475454730?position=7&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=zwfofb9IvpVTmLs4%2F3BBkQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "The Salvation Army North & Central Illinois Division",
@@ -78,7 +260,7 @@
   {
    "title": "Senior Director of National Health Systems Partnerships - THV",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-director-of-national-health-systems-partnerships-thv-at-edwards-lifesciences-4474456869?position=10&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=Ct8Tt7v6SyozLb4Bfle9rA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-director-of-national-health-systems-partnerships-thv-at-edwards-lifesciences-4474456869?position=9&pageNum=0&refId=Mt4aCXptjnZofsan78hRIg%3D%3D&trackingId=msS5qlKBMUCpxyC98vgN3Q%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Edwards Lifesciences",
@@ -91,7 +273,7 @@
   {
    "title": "Partnerships Director",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/partnerships-director-at-water-mission-4476902547?position=8&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=S0Io9VQxNU1m5lohNzZzdg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/partnerships-director-at-water-mission-4476902547?position=7&pageNum=0&refId=Mt4aCXptjnZofsan78hRIg%3D%3D&trackingId=EcbY9TYQu%2Fqv78Z6Tqf8bg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Water Mission",
@@ -104,7 +286,7 @@
   {
    "title": "Director, Corporate Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-corporate-partnerships-at-special-olympics-illinois-4475193423?position=4&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=MWXaUnbpRXt0yCUIeHlIwQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-corporate-partnerships-at-special-olympics-illinois-4475193423?position=5&pageNum=0&refId=Mt4aCXptjnZofsan78hRIg%3D%3D&trackingId=jiEfpgjifqtQB66YIW%2BrBA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Special Olympics Illinois",
@@ -117,7 +299,7 @@
   {
    "title": "Partnership Manager (m/f/d)",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/partnership-manager-m-f-d-at-hyrox-4476564615?position=7&pageNum=0&refId=7gwVMNCCXomDTdbu8BLJxw%3D%3D&trackingId=wqvzZA%2FoOMuqVvvgdd6y8w%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/partnership-manager-m-f-d-at-hyrox-4476564615?position=8&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=0%2BbWZ%2FL0PeeYclMhkSr6%2BQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "HYROX",
@@ -130,7 +312,7 @@
   {
    "title": "Enterprise Partnerships Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/enterprise-partnerships-manager-at-7-eleven-4476346638?position=9&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=bkbZstw%2FL8nr1tp0TfAN3A%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-partnerships-manager-at-7-eleven-4476346638?position=8&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=v6HVbTehRR9hxRQVERfzxA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "7-Eleven",
@@ -141,9 +323,9 @@
    "is_24h": false
   },
   {
-   "title": "Manager, Ad Partnerships - Audiences, Identity & Signals",
+   "title": "Manager, Measurement Partnerships - Audiences, Identity & Signals",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-ad-partnerships-audiences-identity-signals-at-snap-inc-4476339796?position=5&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=5dHf%2FQKKp7PL6NGAcmAVlg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-measurement-partnerships-audiences-identity-signals-at-snap-inc-4476339796?position=6&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=KCdbb%2FJHL48BKG%2F8%2F1q0hQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Snap Inc.",
@@ -154,9 +336,9 @@
    "is_24h": false
   },
   {
-   "title": "Manager, Ad Partnerships - Audiences, Identity & Signals",
+   "title": "Manager, Measurement Partnerships - Audiences, Identity & Signals",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-ad-partnerships-audiences-identity-signals-at-snap-inc-4476338784?position=4&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=UChaBBWNU8NWt%2FORVPQCVQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-measurement-partnerships-audiences-identity-signals-at-snap-inc-4476338784?position=5&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=y10vv8BLcZCLYT2C1AmAvA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Snap Inc.",
@@ -169,7 +351,7 @@
   {
    "title": "Director of Partnerships, Robinhood Money",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-robinhood-money-at-robinhood-4473696701?position=4&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=vaezAPmglHjLbGwV%2F8vhcg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-robinhood-money-at-robinhood-4473696701?position=3&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=2BP3zcP3UaOjnBi5GgwaIg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Robinhood",
@@ -182,7 +364,7 @@
   {
    "title": "Director Of Community Development & Financial Wellness",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-community-development-financial-wellness-at-first-new-york-federal-credit-union-4476150765?position=4&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=FR6aLs1qwmYyca04ibZQkg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-development-financial-wellness-at-first-new-york-federal-credit-union-4476150765?position=3&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=vClnCByoOIzuHiKesK1BeA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "First New York Federal Credit Union",
@@ -193,22 +375,9 @@
    "is_24h": false
   },
   {
-   "title": "Senior Partnership Manager- Utilities",
-   "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-partnership-manager-utilities-at-slipstream-4474795957?position=8&pageNum=0&refId=7gwVMNCCXomDTdbu8BLJxw%3D%3D&trackingId=igUaTUyPOKRsOIaK1U3BfA%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Slipstream",
-   "lid": "4474795957",
-   "id": "linkedin-4474795957",
-   "first_seen": "2026-10-06T12:05:19.082597+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Director, Technology Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-technology-partnerships-at-kiteworks-4474261767?position=9&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=5HXLKqlkZE%2B6VfPEwg9sdA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-technology-partnerships-at-kiteworks-4474261767?position=7&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=3Na8w%2B03Ru4I%2B%2FZ0gSlwmQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Kiteworks",
@@ -221,7 +390,7 @@
   {
    "title": "Strategic Partnerships Manager - Global Payment",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-global-payment-at-bytedance-4474210836?position=1&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=MQuelxCOh2iaeF6GwTKS5g%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-global-payment-at-bytedance-4474210836?position=1&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=RKssvsea0Mv5OgEdGA9x7A%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "ByteDance",
@@ -234,7 +403,7 @@
   {
    "title": "Director of Strategic Community Partnerships, Bureau of Public Health Clinics",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-strategic-community-partnerships-bureau-of-public-health-clinics-at-nyc-department-of-health-and-mental-hygiene-4473467447?position=1&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=URuhOJBNk%2B21DcMXpfbUvw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-strategic-community-partnerships-bureau-of-public-health-clinics-at-nyc-department-of-health-and-mental-hygiene-4473467447?position=1&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=UHtieleAV6NCPVRMtTJ0ww%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "NYC Department of Health and Mental Hygiene",
@@ -247,7 +416,7 @@
   {
    "title": "Manager, Philanthropic Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/manager-philanthropic-partnerships-at-shirley-ryan-abilitylab-4473811053?position=6&pageNum=0&refId=K8eGMjyrafd6QLRs44wjCA%3D%3D&trackingId=w5wud3hQS%2FQwvTldjZR5Vg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-philanthropic-partnerships-at-shirley-ryan-abilitylab-4473811053?position=6&pageNum=0&refId=9fA5VBaUIzoootI6lQcP5A%3D%3D&trackingId=g46XKH4ALE981pVpgbvJQw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Shirley Ryan AbilityLab",
@@ -260,7 +429,7 @@
   {
    "title": "Enterprise Partnerships Manager, Programmatic",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/enterprise-partnerships-manager-programmatic-at-intersection-co-4473389666?position=4&pageNum=0&refId=7gwVMNCCXomDTdbu8BLJxw%3D%3D&trackingId=Ni7dA6iW8%2BkRVlSPGyfHow%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-partnerships-manager-programmatic-at-intersection-co-4473389666?position=6&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=rY1QCNyeKowc15v9ojGJBg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Intersection Co.",
@@ -271,61 +440,9 @@
    "is_24h": false
   },
   {
-   "title": "Director of Partnerships",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-brij-4473351521?position=8&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=YabsieJLDoRZBuQ1joFpXQ%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Brij",
-   "lid": "4473351521",
-   "id": "linkedin-4473351521",
-   "first_seen": "2026-10-02T20:05:19.157258+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
-   "title": "Technology Partnerships Director",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/technology-partnerships-director-at-supermetrics-4473150134?position=3&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=j7wEsRZWRMA0VCbFnwZVzw%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Supermetrics",
-   "lid": "4473150134",
-   "id": "linkedin-4473150134",
-   "first_seen": "2026-10-02T20:05:19.157212+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
-   "title": "Director, Community Initiatives",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-community-initiatives-at-united-way-of-greater-charlotte-4475016453?position=2&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=JbCQY9yP%2F8x6X5Q%2FikCoBw%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "United Way of Greater Charlotte",
-   "lid": "4475016453",
-   "id": "linkedin-4475016453",
-   "first_seen": "2026-10-02T20:05:19.156880+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
-   "title": "Senior Partnership Manager",
-   "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-partnership-manager-at-slipstream-4473340662?position=5&pageNum=0&refId=7gwVMNCCXomDTdbu8BLJxw%3D%3D&trackingId=wYzz3e9dXYqDCkKRM7F6zg%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Slipstream",
-   "lid": "4473340662",
-   "id": "linkedin-4473340662",
-   "first_seen": "2026-10-02T20:05:19.155455+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Director, Employer Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-employer-partnerships-at-braven-4469773402?position=3&pageNum=0&refId=c2IPtCdkx5qxlhMevjsN1w%3D%3D&trackingId=KC5RuQpsBHJh1x52D5wLkw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-employer-partnerships-at-braven-4469773402?position=3&pageNum=0&refId=Mt4aCXptjnZofsan78hRIg%3D%3D&trackingId=y9KrQn3OW8wTzU8LN1lf2A%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Braven",
@@ -336,9 +453,22 @@
    "is_24h": false
   },
   {
+   "title": "Partner Development Manager, AMER Bank Partnerships",
+   "location": "Remote (US)",
+   "url": "https://www.linkedin.com/jobs/view/partner-development-manager-amer-bank-partnerships-at-stripe-4468801873?position=9&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=EOUDdVECpn%2B%2BoICzsIdaHA%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Stripe",
+   "lid": "4468801873",
+   "id": "linkedin-4468801873",
+   "first_seen": "2026-09-24T12:05:17.383713+00:00",
+   "new": false,
+   "is_24h": false
+  },
+  {
    "title": "Partnerships Sales Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/partnerships-sales-manager-at-swift-fit-social-4469483837?position=7&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=%2FwM01rUbKTPTxxeItT2NFg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/partnerships-sales-manager-at-swift-fit-social-4469483837?position=7&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=4IxMRC7w4kEWupjNXTwwCQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Swift Fit Social",
@@ -351,7 +481,7 @@
   {
    "title": "Account Manager, Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/account-manager-partnerships-at-160over90-4466249079?position=5&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=tpoasShkqUyAC4eSv91oow%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/account-manager-partnerships-at-160over90-4466249079?position=5&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=jUgY7N90NM1ALnIu8Hq5gg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "160over90",
@@ -364,7 +494,7 @@
   {
    "title": "Director, Office of Community Outreach and Engagement.",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-office-of-community-outreach-and-engagement-at-dartmouth-college-4469053118?position=3&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=KlxfL%2B06lyiCghNE97CRCQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-office-of-community-outreach-and-engagement-at-dartmouth-college-4469053118?position=2&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=zU%2B6%2FUJDoOsyzCvccMuurA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Dartmouth College",
@@ -377,7 +507,7 @@
   {
    "title": "Manager, Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-at-paypal-4467957283?position=2&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=YHnhmyJo2M4yHc5jVrwkhw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-at-paypal-4467957283?position=2&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=trLNYuuy5pogYmZkZHD%2Fyg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PayPal",
@@ -390,7 +520,7 @@
   {
    "title": "Director, Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-paypal-4467981654?position=5&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=yU5N6LPA58L48MQ6fPeBGg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-paypal-4467981654?position=4&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=rIxcvgkdSLr1Ky2c5Rzbjw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PayPal",
@@ -403,7 +533,7 @@
   {
    "title": "Marketing Manager (Brand & Sponsorships), XCM",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/marketing-manager-brand-sponsorships-xcm-at-amazon-4467734418?position=10&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=eAW1FteGTCEq4X6M32H1kA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/marketing-manager-brand-sponsorships-xcm-at-amazon-4467734418?position=10&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=nG864%2Bv8c%2BQF%2FveKr%2B4mLg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Amazon",
@@ -416,7 +546,7 @@
   {
    "title": "Marketing Manager (Brand & Sponsorships), XCM",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/marketing-manager-brand-sponsorships-xcm-at-amazon-4467724450?position=8&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=XUbigoXMETfVX%2BSu20GajQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/marketing-manager-brand-sponsorships-xcm-at-amazon-4467724450?position=8&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=n2jSaIw3c7A3VrkAAugiQw%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Amazon",
@@ -429,7 +559,7 @@
   {
    "title": "Director, Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-paypal-4467973687?position=1&pageNum=0&refId=dHDhKO0rFJ8ZehPssLD9uA%3D%3D&trackingId=Z6aWl6PdJS0qoJW8flWyFg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-partnerships-at-paypal-4467973687?position=1&pageNum=0&refId=jMF8Rw%2FiNvoX3xr81gUgAA%3D%3D&trackingId=LFddVBjMPmFDKLPc1ujPvA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PayPal",
@@ -440,9 +570,35 @@
    "is_24h": false
   },
   {
+   "title": "Marketing Manager Community & Events",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/marketing-manager-community-events-at-pcma-4466651051?position=3&pageNum=0&refId=uECvZ5RTbYGK53LC6K%2B8%2BQ%3D%3D&trackingId=iAmTSbcvQTsdWjX3twlH1g%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "PCMA",
+   "lid": "4466651051",
+   "id": "linkedin-4466651051",
+   "first_seen": "2026-09-18T12:05:16.867301+00:00",
+   "new": false,
+   "is_24h": false
+  },
+  {
+   "title": "Partner Development Manager, AMER Bank Partnerships",
+   "location": "Chicago, IL",
+   "url": "https://www.linkedin.com/jobs/view/partner-development-manager-amer-bank-partnerships-at-stripe-4468810708?position=3&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=4QBGVR5FDtqqfWujs27Qzg%3D%3D",
+   "published": "",
+   "source": "linkedin",
+   "company": "Stripe",
+   "lid": "4468810708",
+   "id": "linkedin-4468810708",
+   "first_seen": "2026-09-18T12:05:16.867096+00:00",
+   "new": false,
+   "is_24h": false
+  },
+  {
    "title": "Account Manager, Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/account-manager-partnerships-at-160over90-4466233991?position=3&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=c1IuarkwnO74NpE%2BIAff8Q%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/account-manager-partnerships-at-160over90-4466233991?position=3&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=fGWJpY3zb%2FONQ8ycY85BWQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "160over90",
@@ -455,7 +611,7 @@
   {
    "title": "Director of Community Relations",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-community-relations-at-california-polytechnic-state-university-san-luis-obispo-4436277678?position=10&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=Eg%2FKiTbldtghmGjBUFcDNA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-community-relations-at-california-polytechnic-state-university-san-luis-obispo-4436277678?position=8&pageNum=0&refId=6V%2FZSYB5VmgNyOimXJ4uzg%3D%3D&trackingId=rmmCoEGS%2Fd9paLJwv3%2B7Lg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "California Polytechnic State University-San Luis Obispo",
@@ -468,7 +624,7 @@
   {
    "title": "Manager, Sponsorships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-sponsorships-at-cardiovascular-research-foundation-4466818055?position=2&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=aQaRYLavksjqSuRuQrK4tA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-sponsorships-at-cardiovascular-research-foundation-4466818055?position=2&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=NRpRNDV3NyM296IavPrNtQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Cardiovascular Research Foundation",
@@ -479,22 +635,9 @@
    "is_24h": false
   },
   {
-   "title": "Manager, Partnerships & Events",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-events-at-book-of-the-month-4466400188?position=7&pageNum=0&refId=LiwA2GsQ52MRtvQpGUMRIA%3D%3D&trackingId=dv84IpT31wNnjA%2Bibu7Vyg%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Book of the Month",
-   "lid": "4466400188",
-   "id": "linkedin-4466400188",
-   "first_seen": "2026-09-16T12:05:17.679121+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Manager, Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-at-paypal-4467955340?position=3&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=HWrHzOKy33NRe15qRdRY1Q%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-at-paypal-4467955340?position=3&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=zJrhaEcoC1d0NpV9gKRC3g%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PayPal",
@@ -507,7 +650,7 @@
   {
    "title": "Director, PSP & FI Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-psp-fi-partnerships-at-paypal-4467966799?position=2&pageNum=0&refId=dHDhKO0rFJ8ZehPssLD9uA%3D%3D&trackingId=XfBb2MucpmIU8BEAGVk8fA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-psp-fi-partnerships-at-paypal-4467966799?position=2&pageNum=0&refId=jMF8Rw%2FiNvoX3xr81gUgAA%3D%3D&trackingId=MZY3UPTgWPyj6cTc27izyg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PayPal",
@@ -520,7 +663,7 @@
   {
    "title": "Manager, Partnerships",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-at-paypal-4467959301?position=1&pageNum=0&refId=7gwVMNCCXomDTdbu8BLJxw%3D%3D&trackingId=Hs0s89G%2BcTPuHEZHVm3sGw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-partnerships-at-paypal-4467959301?position=1&pageNum=0&refId=wl6JT6bzj9tAWqr14Aj0%2Fg%3D%3D&trackingId=nnnq4Mx4rsdYUeyrLM4OcA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PayPal",
@@ -533,7 +676,7 @@
   {
    "title": "Senior Integrated Marketing Manager",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-integrated-marketing-manager-at-perkspot-4466388434?position=7&pageNum=0&refId=y4QuAROW%2BlkoBCSCwMcSHA%3D%3D&trackingId=ruZizHIi5is%2BcByFkChUHg%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-integrated-marketing-manager-at-perkspot-4466388434?position=6&pageNum=0&refId=zBEmxJu7tEIzuWlSXHfKAg%3D%3D&trackingId=uAwN2QzNtQCin4L5ko%2BjFA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "PerkSpot",
@@ -546,7 +689,7 @@
   {
    "title": "Senior Manager, Social Media, Partnerships & Experiential",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/senior-manager-social-media-partnerships-experiential-at-walgreens-4466704715?position=7&pageNum=0&refId=08cnk%2FFLB%2FNn79JHe%2FQsSQ%3D%3D&trackingId=Z%2BHyi7kNwVlJDO4404iynA%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/senior-manager-social-media-partnerships-experiential-at-walgreens-4466704715?position=8&pageNum=0&refId=uECvZ5RTbYGK53LC6K%2B8%2BQ%3D%3D&trackingId=a8UY%2BqnJnTcKYZN7BGCpwA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Walgreens",
@@ -559,7 +702,7 @@
   {
    "title": "Tech Partnerships Manager",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/tech-partnerships-manager-at-legora-4426862598?position=10&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=hJDi%2BphilROujC2yWnBFww%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/tech-partnerships-manager-at-legora-4426862598?position=10&pageNum=0&refId=tpaYnV5BFTC5X6JYUg1psA%3D%3D&trackingId=BgfXHG%2FkfPWMO26Pr0265g%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Legora",
@@ -570,22 +713,9 @@
    "is_24h": false
   },
   {
-   "title": "Financial Partnerships Manager",
-   "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/financial-partnerships-manager-at-rain-4463914595?position=7&pageNum=0&refId=W7GjYmPxVa6lwSZ5fZD95Q%3D%3D&trackingId=VOhjLSd8RceuKgMoY6sxVw%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "Rain",
-   "lid": "4463914595",
-   "id": "linkedin-4463914595",
-   "first_seen": "2026-09-11T12:05:16.473964+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
    "title": "Director of Data & AI Partnerships, Life Sciences",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-of-data-ai-partnerships-life-sciences-at-tempus-ai-4422022675?position=6&pageNum=0&refId=dHDhKO0rFJ8ZehPssLD9uA%3D%3D&trackingId=X3M6EqmrtFWUmw6OY63B8w%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-data-ai-partnerships-life-sciences-at-tempus-ai-4422022675?position=6&pageNum=0&refId=jMF8Rw%2FiNvoX3xr81gUgAA%3D%3D&trackingId=aWTQh9UIc3wQfbLs%2BCKjnQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Tempus AI",
@@ -598,7 +728,7 @@
   {
    "title": "Media & Sponsorship Manager",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/media-sponsorship-manager-at-baird-4458675031?position=1&pageNum=0&refId=om3%2Bt9RPVlsC5arq7sM%2BCQ%3D%3D&trackingId=7Zir6HZJpygX3xsIRNk68g%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/media-sponsorship-manager-at-baird-4458675031?position=1&pageNum=0&refId=G8NAQ%2BnursyCGaB4KamLlA%3D%3D&trackingId=7KTTCfvi%2BR4k%2B%2BbW204uOA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Baird",
@@ -611,7 +741,7 @@
   {
    "title": "Supply Chain Manager, Strategic Engagement Partnerships, Global Procurement Sustainability, GPO",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/supply-chain-manager-strategic-engagement-partnerships-global-procurement-sustainability-gpo-at-amazon-4458535463?position=10&pageNum=0&refId=A7Oyfoaf4qNlkAH1%2BDBmzA%3D%3D&trackingId=5b0tPMvk9iy6eW%2BwgE3w1A%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/supply-chain-manager-strategic-engagement-partnerships-global-procurement-sustainability-gpo-at-amazon-4458535463?position=10&pageNum=0&refId=kCusBnim9Lskmy2CswJ9Ow%3D%3D&trackingId=Shj1FASNLc3ALaGOzgZEtg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Amazon",
@@ -622,22 +752,22 @@
    "is_24h": false
   },
   {
-   "title": "Director, Strategic Partnerships and Government Relations",
+   "title": "Director Payments, Ecosystem and Marketplace Partnerships",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-and-government-relations-at-kamehameha-schools-4423065513?position=9&pageNum=0&refId=UuGeqZuK3Xc5v9oF9SQFeg%3D%3D&trackingId=g2rqeGu7PHhqUZ4SPX1s9g%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-payments-ecosystem-and-marketplace-partnerships-at-dailypay-4436096834?position=10&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=yZ6OZC8%2BLFW2OyQQdgc4bw%3D%3D",
    "published": "",
    "source": "linkedin",
-   "company": "Kamehameha Schools",
-   "lid": "4423065513",
-   "id": "linkedin-4423065513",
-   "first_seen": "2026-08-25T20:05:16.773522+00:00",
+   "company": "DailyPay",
+   "lid": "4436096834",
+   "id": "linkedin-4436096834",
+   "first_seen": "2026-08-24T20:05:21.650665+00:00",
    "new": false,
    "is_24h": false
   },
   {
    "title": "Director, Community Impact",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-community-impact-at-burlington-stores-inc-4457535115?position=9&pageNum=0&refId=A7Oyfoaf4qNlkAH1%2BDBmzA%3D%3D&trackingId=%2BrBNN%2BFt4bVOoclrTRPt3w%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-community-impact-at-burlington-stores-inc-4457535115?position=9&pageNum=0&refId=kCusBnim9Lskmy2CswJ9Ow%3D%3D&trackingId=hK3MCJtnOdMTp6Nu8kOyaA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Burlington Stores, Inc.",
@@ -650,7 +780,7 @@
   {
    "title": "Silicon Ecosystem Partnerships Director - US",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/silicon-ecosystem-partnerships-director-us-at-furiosaai-4454168478?position=10&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=ktwoEvQCAiQp8ImkwFoVdw%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/silicon-ecosystem-partnerships-director-us-at-furiosaai-4454168478?position=8&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=QZt89D5K4RnGBUKULxsNlQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "FuriosaAI",
@@ -663,7 +793,7 @@
   {
    "title": "Director of Strategic Partnerships - North America",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-north-america-at-tencent-4455942968?position=2&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=ZXuv6nO2anbg1Cun%2BK4HDQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-north-america-at-tencent-4455942968?position=2&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=IjjfTA6CORmEJk7968z8eg%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Tencent",
@@ -676,7 +806,7 @@
   {
    "title": "Director of Strategic Partnerships - North America",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-north-america-at-tencent-4455948770?position=1&pageNum=0&refId=VQYoKJF8xUdAAuZWfWIaEg%3D%3D&trackingId=UPlcKx%2Fjk5O2w9pBCBAKHQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-north-america-at-tencent-4455948770?position=1&pageNum=0&refId=qcUl0jv%2Bw62TfdnYmXkAhw%3D%3D&trackingId=vydsW%2B8XiyCwdPVjZZpuKA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Tencent",
@@ -689,7 +819,7 @@
   {
    "title": "Director, Strategic Partnership Sales, Media Solutions",
    "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnership-sales-media-solutions-at-mastercard-4447311049?position=3&pageNum=0&refId=dHDhKO0rFJ8ZehPssLD9uA%3D%3D&trackingId=LHcJbWnAZcgaCZU7ff0X4Q%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/director-strategic-partnership-sales-media-solutions-at-mastercard-4447311049?position=3&pageNum=0&refId=jMF8Rw%2FiNvoX3xr81gUgAA%3D%3D&trackingId=44tFTQYY3ytiNTL4DNJJhA%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "Mastercard",
@@ -702,26 +832,13 @@
   {
    "title": "Manager, Sponsorship New Business",
    "location": "Remote (US)",
-   "url": "https://www.linkedin.com/jobs/view/manager-sponsorship-new-business-at-national-football-league-nfl-4387085677?position=4&pageNum=0&refId=Rb5x8eU%2Bo8V05TNhkGqF%2BQ%3D%3D&trackingId=hQ8pHlqmS9JXQT1r6vh6eQ%3D%3D",
+   "url": "https://www.linkedin.com/jobs/view/manager-sponsorship-new-business-at-national-football-league-nfl-4387085677?position=4&pageNum=0&refId=GEYeCgkvmEt%2FIqxy%2Ff60fQ%3D%3D&trackingId=IGTQ4bIBZlTIlJ6D1hOSlQ%3D%3D",
    "published": "",
    "source": "linkedin",
    "company": "National Football League (NFL)",
    "lid": "4387085677",
    "id": "linkedin-4387085677",
    "first_seen": "2026-08-04T20:05:26.791818+00:00",
-   "new": false,
-   "is_24h": false
-  },
-  {
-   "title": "Manager, Integrated Marketing, Consumer - DashPass Habituation",
-   "location": "Chicago, IL",
-   "url": "https://www.linkedin.com/jobs/view/manager-integrated-marketing-consumer-dashpass-habituation-at-doordash-4427802714?position=2&pageNum=0&refId=y4QuAROW%2BlkoBCSCwMcSHA%3D%3D&trackingId=OXidIL6yJqW7MYHdPqKvQg%3D%3D",
-   "published": "",
-   "source": "linkedin",
-   "company": "DoorDash",
-   "lid": "4427802714",
-   "id": "linkedin-4427802714",
-   "first_seen": "2026-08-03T21:57:36.289353+00:00",
    "new": false,
    "is_24h": false
   }
